@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.HttpTestingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-15T22:44:45" hostname="macos-C02FH7M1MD6N" time="30.85">
+  <properties/>
+  <testcase name="testGetTranscriptionResult()" classname="org.example.HttpTestingTest" time="30.85"/>
+  <system-out><![CDATA[{"id":"testId","status":"completed","text":"This is a test transcript"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
